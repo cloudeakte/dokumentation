@@ -19,9 +19,10 @@
                 "name": "eAkte Team"
             },
             "tags": [
+                   "FAQ"
             ],
             "date_published": "2022-06-23T15:53:31+02:00",
-            "date_modified": "2022-09-01T00:25:17+02:00"
+            "date_modified": "2022-09-01T00:27:59+02:00"
         },
         {
             "id": "https://cloudeakte.github.io/dokumentation/faq-eintrag.html",
@@ -33,10 +34,11 @@
                 "name": "eAkte Team"
             },
             "tags": [
-                   "Rollen und Rechte"
+                   "Rollen und Rechte",
+                   "FAQ"
             ],
             "date_published": "2022-06-23T15:50:38+02:00",
-            "date_modified": "2022-09-01T00:19:16+02:00"
+            "date_modified": "2022-09-01T00:28:07+02:00"
         }
     ]
 }
