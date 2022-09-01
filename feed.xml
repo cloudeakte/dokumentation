@@ -3,12 +3,40 @@
     <title>E-Akte Dokumentation</title>
     <link href="https://cloudeakte.github.io/dokumentation/feed.xml" rel="self" />
     <link href="https://cloudeakte.github.io/dokumentation" />
-    <updated>2022-09-01T00:28:07+02:00</updated>
+    <updated>2022-09-01T00:35:09+02:00</updated>
     <author>
         <name>eAkte Team</name>
     </author>
     <id>https://cloudeakte.github.io/dokumentation</id>
 
+    <entry>
+        <title>Demoseite</title>
+        <author>
+            <name>eAkte Team</name>
+        </author>
+        <link href="https://cloudeakte.github.io/dokumentation/demoseite.html"/>
+        <id>https://cloudeakte.github.io/dokumentation/demoseite.html</id>
+            <category term="FAQ"/>
+
+        <updated>2022-09-01T00:35:09+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Jetzt geht's ums Ganze: Erstelle ein Dokument: Geschafft - gut gemacht
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Jetzt geht's ums Ganze: Erstelle ein Dokument:</p>
+<ol>
+<li>Klicke hier</li>
+<li>Klicke dort</li>
+</ol>
+<p> </p>
+<p> </p>
+<p class="msg msg--success">Geschafft - gut gemacht</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>FAQ</title>
         <author>
