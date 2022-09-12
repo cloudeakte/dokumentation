@@ -10,21 +10,6 @@
     },
     "items": [
         {
-            "id": "https://cloudeakte.github.io/dokumentation/demoseite.html",
-            "url": "https://cloudeakte.github.io/dokumentation/demoseite.html",
-            "title": "Demoseite",
-            "summary": "Jetzt geht's ums Ganze: Erstelle ein Dokument: Geschafft - gut gemacht",
-            "content_html": "<p>Jetzt geht's ums Ganze: Erstelle ein Dokument:</p>\n<ol>\n<li>Klicke hier</li>\n<li>Klicke dort</li>\n</ol>\n<p> </p>\n<p> </p>\n<p class=\"msg msg--success\">Geschafft - gut gemacht</p>",
-            "author": {
-                "name": "eAkte Team"
-            },
-            "tags": [
-                   "FAQ"
-            ],
-            "date_published": "2022-09-01T00:35:09+02:00",
-            "date_modified": "2022-09-01T00:35:09+02:00"
-        },
-        {
             "id": "https://cloudeakte.github.io/dokumentation/was-kann-ich-tun.html",
             "url": "https://cloudeakte.github.io/dokumentation/was-kann-ich-tun.html",
             "title": "Wie lege ich Dokumente aus meinem Laufwerk in der E-Akte ab?",
