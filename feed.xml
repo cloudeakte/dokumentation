@@ -3,12 +3,33 @@
     <title>E-Akte Dokumentation</title>
     <link href="https://cloudeakte.github.io/dokumentation/feed.xml" rel="self" />
     <link href="https://cloudeakte.github.io/dokumentation" />
-    <updated>2022-09-01T14:34:43+02:00</updated>
+    <updated>2023-01-04T12:06:06+01:00</updated>
     <author>
         <name>eAkte Team</name>
     </author>
     <id>https://cloudeakte.github.io/dokumentation</id>
 
+    <entry>
+        <title>040123 - Test</title>
+        <author>
+            <name>eAkte Team</name>
+        </author>
+        <link href="https://cloudeakte.github.io/dokumentation/040123-test.html"/>
+        <id>https://cloudeakte.github.io/dokumentation/040123-test.html</id>
+            <category term="FAQ"/>
+
+        <updated>2023-01-04T12:06:06+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Funktioniert das System noch wie gewünscht?
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Funktioniert das System noch wie gewünscht?</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Wie lege ich Dokumente aus meinem Laufwerk in der E-Akte ab?</title>
         <author>
